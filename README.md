@@ -8,7 +8,7 @@ Built using **Python, Ridge Regression, and Streamlit**, this tool offers an **i
 ## 🚀 Demo
 
 ![FinSight App Screenshot](assets/Demo.png)
-[Streamlit Demo Link] : 
+[Streamlit Demo Link] : https://finsight-end-to-end-personal-expense-prediction-system.streamlit.app/
 
 ---
 
